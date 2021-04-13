@@ -1,0 +1,26 @@
+.box {
+    background-image: url(../Pics/Background.jpg);
+    padding: 300px 3px;
+    background-size: cover;
+    background-position: center;
+    align-items: left;
+}
+
+h1{
+    color:black ;
+    font-size: 3em;
+    align-items: left;
+	
+}
+h2{ 
+    color:black;
+    font-size: 4em;
+    text-decoration: underline;
+}
+
+
+h3{
+    color:black;
+    font-size: 3em
+    
+}
