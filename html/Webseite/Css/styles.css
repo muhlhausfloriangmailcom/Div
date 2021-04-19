@@ -25,6 +25,14 @@ h3{
     
 }
 .text{
-    color:black;
+    color:white;
+padding: 25px;
+}
+.btn {
+    width: 150px;
+}
+
+.form{
+    color:white;
 padding: 25px;
 }
